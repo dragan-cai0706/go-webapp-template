@@ -1,0 +1,18 @@
+# Binary output
+/bin/
+
+# Go build cache
+/build/
+
+# Coverage artifacts
+coverage.out
+coverage.html
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Environment files
+.env*
+!.env.example
+
